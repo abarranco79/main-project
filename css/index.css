@@ -1,0 +1,28 @@
+main{
+    width: 100%;
+    height: 80vh;
+    background-image: url(../img/cover.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contenedor{
+    background: #00000062;
+    padding-top: 250px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.inicio h1{
+    color: #ffffff;
+    text-align: center;
+    font-weight: 500;
+}
+
+.inicio p{
+    color: #ffffff;
+    font-weight: 300;
+    text-align: center;
+}
+
